@@ -1,0 +1,97 @@
+html {
+  justify-content: right;
+  background-color: #b8bec1;
+}
+
+.navbar {
+  border: 1px solid black;
+  border-radius: 8px;
+  width: 626px;
+  height: 1800px;
+  padding: 35px 29px 0px 30px;
+  margin-top: 89px;
+  margin-bottom: 89px;
+  min-height: 820px;
+  background-color: white;
+}
+
+h1 {
+  font-size: 42px;
+  text-align: center;
+}
+
+p {
+  color: gray;
+  font-size: 12px;
+}
+
+b {
+  font-size: 13px;
+}
+
+label {
+  font-size: 13px;
+}
+
+.day {
+  color: green;
+}
+
+.solid {
+  border-top: 1px solid black;
+  padding: 0px 0px 20px 0px;
+}
+
+.yello {
+  display: inline;
+  color: #ffa500;
+}
+
+.text {
+  width: 158px;
+  height: 33px;
+}
+
+.name {
+  width: 268.5px;
+  height: 33px;
+}
+
+.phone {
+  width: 57px;
+  height: 23px;
+}
+
+.adress {
+  width: 107px;
+  height: 33px;
+}
+
+.adressbutton {
+  width: 67px;
+  height: 27px;
+}
+
+.adresstext {
+  width: 530px;
+  height: 33px;
+}
+
+.massage {
+  width: 523px;
+  height: 95px;
+}
+
+.finish {
+  width: 135px;
+  height: 42px;
+  border: 0;
+  outline: 0;
+  background-color: rgb(111, 223, 0);
+  color: white;
+}
+
+.total {
+  display: flex;
+  justify-content: center;
+}
